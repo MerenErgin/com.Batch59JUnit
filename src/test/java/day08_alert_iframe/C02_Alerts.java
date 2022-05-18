@@ -1,4 +1,4 @@
-package day08_alert;
+package day08_alert_iframe;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.junit.*;
@@ -8,7 +8,6 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-import java.sql.Driver;
 import java.time.Duration;
 
 public class C02_Alerts {
